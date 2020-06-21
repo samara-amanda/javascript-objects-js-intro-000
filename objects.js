@@ -3,7 +3,7 @@ var playlist = {
   song: "Yikes"
 };
 
-function updatePlaylist(playlist, artistName, songTitle) {
+function updatePlaylist( {}, playlist, artistName, songTitle) {
   artistName: 'Phil Ochs'
   songTitle: "Here's to the State of Mississippi"
   return updatePlaylist
